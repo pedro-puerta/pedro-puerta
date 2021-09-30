@@ -1,7 +1,10 @@
 ### Hello world! I am Pedro Puerta!
 
+- :house_with_garden: I’m from Brazil.
+- :computer: I'm Front-End Developer!
 - 🔭 I’m currently working as a Support Analyst for a billing system used by [VIVO](https://www.vivo.com.br/para-voce?genParam=ctrm).
-- 🌱 I’m currently learning React JS and mobile development.
+- :books: I’m currently learning React JS and mobile development.
+- :outbox_tray: 2021 Goals: create new projects and don't stop learning.
 
 ##
 
